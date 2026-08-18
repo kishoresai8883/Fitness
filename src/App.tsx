@@ -61,8 +61,9 @@ export default function App() {
       {/* Footer */}
       <Footer />
 
-      {/* Sticky Mobile Action Bar */}
+      {/* Sticky Mobile Action Bar 
       <StickyMobileBar onOpenFreePass={() => handleOpenFreePass()} />
+      */}
 
       {/* Interactive 3-Day Free Trial Modal */}
       <FreePassModal
