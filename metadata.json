@@ -1,0 +1,6 @@
+{
+  "name": "Apex Performance Fitness Club",
+  "description": "High-energy conversion-focused website for Apex Performance Gym featuring program listings, membership calculator, class schedule, free pass booking, and direct contact options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
