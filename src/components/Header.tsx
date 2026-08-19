@@ -43,7 +43,7 @@ export const Header: React.FC<HeaderProps> = ({ onOpenFreePass }) => {
   return (
     <>
       {/* Top Banner with location & operating status */}
-      <div className="bg-zinc-950 text-zinc-300 text-xs py-2 px-4 border-b border-zinc-800/80">
+      <div className="hidden md:block bg-zinc-950 text-zinc-300 text-xs py-2 px-4 border-b border-zinc-800/80">
         <div className="max-w-7xl mx-auto flex flex-wrap items-center justify-between gap-2">
           <div className="flex items-center gap-3">
             <span className="flex items-center gap-1.5 text-red-500 font-semibold">

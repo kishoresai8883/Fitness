@@ -36,7 +36,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenFreePass }) => {
               </span>
               <span className="text-zinc-600">•</span>
               <span className="flex items-center gap-1.5 text-red-400">
-                <Flame className="w-4 h-4 text-red-500" /> #1 Rated Gym in Metro
+                <Flame className="w-4 h-4 text-red-500" /> #1 Rated Gym in Hyd
               </span>
             </div>
 
